@@ -1,0 +1,51 @@
+
+body {
+    font-size: 1.5em;
+    font-family: 'Open Sans', sans-serif;
+    color: #555;
+    border-top: 20px solid #e77b3b;
+
+}
+
+.grey-bg {
+    padding: 40px;
+    background: #f9f9f9;
+    margin:40px auto;
+}
+
+/* About */
+#bhgh-logo {
+    width: 300px;
+    margin:40px auto;
+    display: block;
+}
+
+#bhgh-logo-anet {
+    width: 300px;
+    margin:50px auto;
+    display: block;
+}
+
+.margin {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.AuthorizeNetSeal {
+    margin: 40px auto !important;
+}
+
+.orange-button{
+    border-color: #9A4918;
+    background-color: #9A4918;
+    margin: 20px 0;
+}
+
+.orange-button:hover {
+    border-color: #67371A;
+    background-color: #67371A;
+}
+
+h3 {
+    line-height: 1.5em;
+}
